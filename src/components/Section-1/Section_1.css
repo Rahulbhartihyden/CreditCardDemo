@@ -51,9 +51,11 @@
 .paragraph-right-para-2 {
   top: 225px;
 }
-.paragraph-right-para-3 {
-  top: 225px;
-}
+/* .paragraph-right-para-3 {
+  position: absolute;
+  left: 200px;
+  z-index: 1;
+} */
 
 
 

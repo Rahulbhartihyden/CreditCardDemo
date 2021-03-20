@@ -8,7 +8,6 @@ function Section_1() {
         <h1 className="section-left-heading1-line1">The Freedom to Create</h1>
         <br />
         <h1 className="section-left-heading1-line2">
-         
           The Credit Card You Want
         </h1>
       </div>
@@ -21,9 +20,8 @@ function Section_1() {
         <p className="paragraph-right-para-2">
           Your OneSync Credit Card stays true to you, year after year. It’s the
           only card you’ll ever need.
-        </p>
-        <p className=".paragraph-right-para-3">
-          <a href="/#">Get Started</a>
+          <br />
+          <u>Get Started</u> >
         </p>
       </div>
     </div>

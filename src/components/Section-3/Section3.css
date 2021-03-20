@@ -1,0 +1,90 @@
+@import "react-alice-carousel/lib/alice-carousel.css";
+.section3 {
+  position: absolute;
+  width: 100vw;
+  height: 480px;
+  left: 0px;
+  top: 2164px;
+
+  background: #f7f3ff;
+}
+.sectionbody {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+.section3Left {
+  margin-top: 200px;
+  margin-left: 200px;
+}
+.AliceCarouselUpper {
+  position: absolute;
+  width: 400px;
+  left: 19%;
+  right: 0%;
+  top: 20%;
+  bottom: 0%;
+
+  /* grad/gray */
+}
+.AliceCarousellower {
+  position: absolute;
+  left: 20%;
+  right: 0%;
+  top: 85%;
+  bottom: 0%;
+
+  width: 400px;
+}
+.section3Right {
+  display: flex;
+
+  margin-top: 200px;
+  margin-left: 500px;
+}
+.imgSection3 {
+  position: absolute;
+  left: 60%;
+  right: 0%;
+  top: 20%;
+  bottom: 0%;
+
+  background: #f7f3ff;
+}
+.headingSection3 {
+  position: absolute;
+  width: 495px;
+  height: 60px;
+  left: 850px;
+  top: 152px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  /* identical to box height, or 60px */
+
+  display: flex;
+  align-items: flex-end;
+
+  color: #000000;
+}
+.headingSectionh2 {
+  position: absolute;
+  width: 495px;
+  height: 180px;
+  left: 850px;
+  top: 240px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 20px;
+  /* or 150% */
+
+  color: #000000;
+}
